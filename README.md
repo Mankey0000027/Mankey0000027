@@ -1,0 +1,1 @@
+I'm a beginner Python enthusiast with a passion for learning and growing my coding skills. Currently diving into the world of Python, I'm excited to explore what this powerful language can do. Whether it's building simple scripts or working on more complex projects, I'm always eager to learn something new.
